@@ -1,6 +1,6 @@
 # Vision Transformers
 
-Lecture: [link](https://disk.yandex.ru/i/f4X7avr9C13FaA)
+Lecture: [link](https://disk.yandex.ru/d/WRHld04LPCepMA)
 
 Seminar: [seminar](./seminar)
 
